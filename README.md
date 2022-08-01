@@ -18,3 +18,7 @@ sudo apt-get install libelf-dev
 make
 
 make install 
+
+vim ~/.zshrc
+
+LD_LIBRARY_PATH="$MESA_INSTALLDIR/lib64" glxinfo
