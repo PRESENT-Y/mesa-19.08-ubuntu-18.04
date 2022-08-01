@@ -22,3 +22,7 @@ make install
 vim ~/.zshrc
 
 LD_LIBRARY_PATH="$MESA_INSTALLDIR/lib64" glxinfo
+
+glxinfo |grep "OpenGL version"
+
+OpenGL version string:3.1 Mesa 19.0.8
