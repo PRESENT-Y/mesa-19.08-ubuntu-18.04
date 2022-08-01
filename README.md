@@ -1,5 +1,7 @@
 # mesa-19.08-ubuntu-18.04
 
+https://docs.mesa3d.org/download.html
+
 
 Mesa 库(libGL)静态编译
 
